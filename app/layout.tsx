@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 export const metadata = {
   title: "blid.io - AI Text-to-Video Generator",
   description: "Transform your text prompts into stunning videos with AI",
+    generator: 'v0.dev'
 }
 
 export default function RootLayout({
